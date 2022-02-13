@@ -1,0 +1,17 @@
+# Creating UI Templates
+
+This will be your first module to start your journey in atlp. You will be asked to utilize HTML, CSS and JavaScript to create UI templates for your blog. But that won't be all, you will also need to use the following tools:
+
+- Trello : A project management tool
+- Figma : For creating mockups( The design for your UI)
+- GitHub : for tracking your codes and static hosting
+
+## Useful resources
+### Trello
+As most people in atlp are beginners it only right to assume that you are not familiar with these fancy names like trello. It might seem scary at first but it is actually very simple, you will be asked to create user stories for your project. These resources might come in handy:
+
+[Capstone Project Template](https://trello.com/b/GJ2wVIhy/capstone-project-template)
+[Creating User Stories for your app](https://www.youtube.com/watch?v=eEQPs_xUmVM)
+
+### Figma
+[Design A Website In Under 1 Hour With Figma] (https://www.youtube.com/watch?v=FK4YusHIIj0)
