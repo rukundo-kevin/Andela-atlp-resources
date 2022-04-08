@@ -8,5 +8,4 @@ If you have graduated from Andela technical Leadership or you have just been acc
 
 These resources can be used for:
 - Saving learners time :clock:
-
-these are the changes in ft
+- Now and then sneak and picky for trainees.
