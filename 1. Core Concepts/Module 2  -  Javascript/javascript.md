@@ -2,7 +2,7 @@
 During this second module the primary goal is to understand javascript better and how it can be used to manipulate DOM. You will also be required to use **LocalStorage** or **IndexDB** to store and retrive data.
 
 You might be asked to complete the Freecodecamp about Data structures and algorithms, these links can help in solving some challenges:
- - [Conquering freeCodeCam - Florinpop](https://www.youtube.com/watch?v=lkOXlVgKHYM) <br>
+ - [Conquering freeCodeCamp - Florinpop](https://www.youtube.com/watch?v=lkOXlVgKHYM) <br>
  
 Validating forms
 - [JavaScript Client-side Form Validation](https://www.youtube.com/watch?v=rsd4FNGTRBw) <br>
