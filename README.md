@@ -47,6 +47,9 @@ At this stage, trainees will develop the backend of the blog(any other project) 
 
 ### Integration
 
+Now that you've built the frontend and backend, it is time to join the two together and integrate both functionalities.
+
+If you carried out the task of storing data in local storage in previous module, then this won't be hard as you will be making only minimal changes to store and retrieve from the api.
 
 ## Team Projects
 
