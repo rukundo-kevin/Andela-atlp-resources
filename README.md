@@ -27,7 +27,9 @@ These resources can be used for:
 
 ## Core Concepts
 
-
+<details>
+<summary>Core Concepts</summary>
+<br>
 This will be your first step into your journey in atlp. There will be onboarding where the trainees will be briefed on the timeline of the program, the requirements
 
 ### Creating UI
@@ -47,9 +49,15 @@ At this stage, trainees will develop the backend of the blog(any other project) 
 
 ### Integration
 
+Now that you've built the frontend and backend, it is time to join the two together and integrate both functionalities.
+
+If you carried out the task of storing data in local storage in previous module, then this won't be hard as you will be making only minimal changes to store and retrieve from the api.
+</details>
 
 ## Team Projects
-
+<details>
+<summary>Team Projects</summary>
+<br>
 To this point the trainee has finished the extensive and exhausting phase one of core concepts. But now comes the second phase of Team project. In this phase the learners will be assigned a project which they will have to collaborate on.
 
 Good knowledge of github from previous will be very essential to thrive through this stage.
@@ -57,6 +65,9 @@ Good knowledge of github from previous will be very essential to thrive through 
 They will be divided into teams of between 5 to 10 to develop one these 2 projects. <br>
      
     1. Barefoot Nomad:
-    2. Phantom
+    2. Phantom</details>
+</details>
 
 ## Apprenticeship
+
+
